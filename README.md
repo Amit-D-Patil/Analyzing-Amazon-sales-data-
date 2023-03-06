@@ -28,26 +28,32 @@ The six sheets included in this project are:
 
 ### Sales by Region:
 A stacked bar chart showing total sales revenue by region, with each region split by product category.
+
 ![2023-03-05 (6)](https://user-images.githubusercontent.com/124231532/223018890-1f0536d8-4df8-4b07-a6e4-24b128ac82d7.png)
 
 ### Sales by Country: 
 A choropleth map showing total sales revenue by country, with each country shaded based on the total sales revenue.
+
 ![2023-03-05 (7)](https://user-images.githubusercontent.com/124231532/223018871-ac23ca78-fe0d-4ab9-8277-839b3a619a98.png)
 
 ### Sales by Sales Channel:
 A pie chart showing the percentage of total sales revenue for each sales channel.
+
 ![2023-03-05 (8)](https://user-images.githubusercontent.com/124231532/223018854-25ab394f-5739-4b5a-9dc5-0628fac386b8.png)
 
 ### Sales Trends: 
 A line chart showing the total sales revenue over time, with the ability to filter by region, country, and product category.
+
 ![2023-03-05 (9)](https://user-images.githubusercontent.com/124231532/223018829-35026cf7-e229-4f0a-84ed-33b309ad27a7.png)
 
 ### Product Performance:
 A horizontal bar chart showing the top-selling products by total sales revenue, with the ability to filter by region and country.
+
 ![2023-03-05 (10)](https://user-images.githubusercontent.com/124231532/223018790-7966b0c9-e8d1-4e80-a663-beacd5d163ea.png)
 
 ### Customer Demographics: 
 A bubble chart showing the relationship between total sales revenue, customer age, and customer gender.
+
 ![2023-03-05 (11)](https://user-images.githubusercontent.com/124231532/223018778-f72a0c0c-c895-48d3-acb4-0f8b6156b491.png)
 
 Each sheet provides a different perspective on the sales data and allows users to gain insights into different aspects of the business.
